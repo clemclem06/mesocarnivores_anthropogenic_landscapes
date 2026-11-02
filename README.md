@@ -6,7 +6,7 @@ The code was developed on R 4.3. All files must be placed in the same working di
 
 The file diversity.xlsx contains the number of sightings by species for each sub-site. Species are listed in the following order: Caracal, Honey badger, Large grey mongoose, Small grey mongoose, Water mongoose, Yellow mongoose, African clawless otter, Bat-eared fox, Cape fox, Large spotted genet, Aardwolf, Jackal, African wild cat, Leopard. 
 
-Diversity analysis aim to determine the community’s profiles, i.e. the community diversity (“entropart” package (Marcon & Hérault 2015)). The community profile, or the effective number of species, represents the Hill number of the true diversity (Jost 2006). It is  the number of equally abundant species needed to have the same diversity as our dataset. This number depend on the diversity order, i.e. the importance given to rare species (with 0 meaning all species are considered equal and the infinite meaning only the dominant species is considered). 
+Diversity analysis aim to determine the community’s profiles, i.e. the community diversity (Marcon & Hérault 2015). The community profile, or the effective number of species, represents the Hill number of the true diversity (Jost 2006). It is  the number of equally abundant species needed to have the same diversity as our dataset. This number depend on the diversity order, i.e. the importance given to rare species (with 0 meaning all species are considered equal and the infinite meaning only the dominant species is considered). 
 
 The R script generates the diversity plot in PNG format.
 
